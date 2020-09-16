@@ -49,3 +49,21 @@ header h1 {
     border: 1px solid #d5d5d5;
     font-size: 20px;
 }
+
+#load {
+    display: none;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#weather {
+    display: none;
+    background: orange;
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 10px 10px 10px #ccc;
+}
